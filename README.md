@@ -31,7 +31,7 @@
 </div>
 
 <hr />
-<h3 align="left"> ☏ Connect with me:</h3>
+<h3 align="left"> 🌐  Connect with me:</h3>
 <p align="center">
      <a href="https://linkedin.com/in/prajwal-l-853428304" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
