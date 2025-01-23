@@ -8,7 +8,7 @@
 <hr />
 <h3>🚀 About Me</h3>
 
-- 🔭 I’m Currently Working on **Web Scraping, Data Automation**
+- 🔭 I’m Currently Working on **Web Scraping & Data Automation**
 
 - 🌱 Learning **BeautifulSoup, web scraping, data automation, and developing Python scripts for real-time tracking solutions.**
 
