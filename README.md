@@ -11,7 +11,7 @@
   <li>🌱 Learning <b>BeautifulSoup, web scraping, data automation, and developing Python scripts for real-time tracking solutions.</b></li>
   <li>💬 Ask me about <b>HTML, CSS, JavaScript, Python</b></li>
   <li>📫 How to reach me: <a href="mailto:prajjuacharya284@gmail.com">prajjuacharya284@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="[https://1drv.ms/w/s!AmCoN7_vqMTugswGNX5zUxXkZoovzg?e=npncEP](https://1drv.ms/w/c/eec4a8efbf37a860/EWCoN7_vqMQggO4GpgAAAAABArOeBVFWeNbkKPDB-pNO-w)">View Resume</a></li>
+  <li>📄 Know about my experiences: <a href="https://1drv.ms/w/s!AmCoN7_vqMTugswGNX5zUxXkZoovzg?e=npncEP">View Resume</a></li>
 </ul>
 
 <hr />
